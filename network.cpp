@@ -130,3 +130,5 @@ size_t Network::num_users(){
 vector<User> Network::users() {
     return users_;
 }
+
+// Testing
